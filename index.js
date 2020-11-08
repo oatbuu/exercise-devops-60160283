@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000
 
 const items = [
     {id: '1', name: 'Iphone 12 Pro Max'},
-    {id: '2', name: 'Iphone 12'}
+    {id: '2', name: 'Iphone 11'}
 ]
 
 app.get('/', (req, res) => {
